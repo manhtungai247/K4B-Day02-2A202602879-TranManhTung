@@ -289,6 +289,7 @@ Thời gian mỗi bước f1–f6 và thời gian chờ W1 đều chưa đo. F1 
 - Ba nhóm số chính: thời gian thao tác/chờ; trường sai hoặc bỏ sót; TP/FN/FP khi phát hiện mâu thuẫn. Kiểm tra truy vết nguồn là điều kiện bổ sung.
 - Case mô phỏng như hai deadline khác nhau chỉ dùng kiểm tra hành vi, gắn nhãn “synthetic”; tách hoàn toàn khỏi bằng chứng nhu cầu và tần suất pain.
 - Trong pilot, một lỗi deadline bị hệ thống chốt sai hoặc một nguồn bị bịa là lý do dừng, sửa và kiểm tra lại trước khi dùng. Qua mẫu nhỏ không có nghĩa hệ thống không bao giờ sai.
+
 **Điều kiện đề xuất Go:** dữ liệu thật cho thấy pain lặp lại, workflow giảm công sau khi tính nhập/review và đạt ngưỡng chất lượng đã chốt. Mẫu nhỏ chỉ cho phép Go thử tiếp, chưa đủ để triển khai rộng.
 
 **Điều kiện No-Go hoặc đổi hướng:** người dùng chủ yếu chỉ cần một LMS; thông tin đã nhất quán; pain chủ yếu do trì hoãn; hoặc checklist chuẩn đạt cùng độ chính xác với ít công hơn. Khi đó dùng process fix/Rule và ghi nhận lý do loại AI.
