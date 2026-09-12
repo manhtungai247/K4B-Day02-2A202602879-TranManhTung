@@ -6,7 +6,7 @@
 
 - Họ và tên: Trần Mạnh Tùng
 - Mã học viên: 2A202602879
-- Nhóm: Nhóm 2 (Nguyễn Mạnh Cường, Nguyễn Hồng Thái, Trần Mạnh Tùng, Đinh Hoàng Đức, Phan Đại Cương)
+- Nhóm: Nhóm 5 anh em - Zone A (Nguyễn Mạnh Cường, Nguyễn Hồng Thái, Trần Mạnh Tùng, Đinh Hoàng Đức, Phan Đại Cương)
 - Candidate problem nhóm chọn: C1 — Xác định yêu cầu hiện hành của bài tập từ nhiều nguồn (Thu hẹp từ problem #1; có bước đối chiếu hiệu lực rõ, đo được công tìm/kiểm tra, lỗi và mâu thuẫn bỏ sót)
 
 ---
