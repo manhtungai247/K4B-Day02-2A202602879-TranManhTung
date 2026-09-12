@@ -4,10 +4,10 @@
 
 ## Thông tin cá nhân
 
-- Họ và tên:
-- Mã học viên:
-- Nhóm:
-- Candidate problem nhóm chọn:
+- Họ và tên: Trần Mạnh Tùng
+- Mã học viên: 2A202602879
+- Nhóm: 
+- Candidate problem nhóm chọn: 
 
 ---
 
