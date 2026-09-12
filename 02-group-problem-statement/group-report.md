@@ -22,19 +22,19 @@ Nhóm gồm 5 thành viên, mỗi thành viên đóng góp 3 Problem Candidates:
 
 | ID | Người đưa ra | Candidate Problem | Actor | Bottleneck | Trạng thái |
 |---|---|---|---|---|---|
-| C1 | Nguyễn Mạnh Cường | Xác định yêu cầu hiện hành của bài tập từ nhiều nguồn | Sinh viên / Học viên nhận bài qua nhiều kênh | Đối chiếu hiệu lực rõ; đo được công tìm/kiểm tra, lỗi và mâu thuẫn bỏ sót | cần so với bảng yêu cầu chuẩn do giảng viên/labcoach cập nhật |
+| C1 | Nguyễn Mạnh Cường | Xác định yêu cầu hiện hành của bài tập từ nhiều nguồn | Sinh viên / Học viên nhận bài qua nhiều kênh | Đối chiếu hiệu lực rõ; đo được công tìm/kiểm tra, lỗi và mâu thuẫn bỏ sót, cần so với bảng yêu cầu chuẩn do giảng viên/labcoach cập nhật | Đã có trong bài cá nhân |
 | C2 | Nguyễn Mạnh Cường | Kiểm tra môi trường trước khi chạy lab | Học viên Python trên Windows | Phân biệt lỗi môi trường (CUDA, path) với lỗi code | Đã có trong bài cá nhân |
 | C3 | Nguyễn Mạnh Cường | Phát hiện sai tài khoản GitHub trước khi push | Học viên dùng nhiều account git | Xác định tài khoản có quyền commit/push vào repo | Đã có trong bài cá nhân |
-| C4 | Nguyễn Hồng Thái  | Ôn tập tổng hợp kiến thức trước kỳ kiểm tra | Học viên AI20K ôn thi | Nối các kiến thức rời rạc (slide, note, notebook) thành khung mạch ôn | Đã có trong bài cá nhân (Card Pitch) |
+| C4 | Nguyễn Hồng Thái  | Ôn tập tổng hợp kiến thức trước kỳ kiểm tra | Học viên AI20K ôn thi | Nối các kiến thức rời rạc (slide, note, notebook) thành khung mạch ôn | Đã có trong bài cá nhân |
 | C5 | Nguyễn Hồng Thái  | Đọc hiểu tài liệu / paper kỹ thuật tiếng Anh | Học viên chưa vững nền ML | Dừng tra thuật ngữ / ký hiệu làm đứt mạch đọc hiểu | Đã có trong bài cá nhân |
 | C6 | Nguyễn Hồng Thái  | Tìm và tổng hợp tài liệu cho bài tập lớn | Học viên làm project / báo cáo | Sắp xếp các ý rời rạc thành dàn bài có logic | Đã có trong bài cá nhân |
-| C7 |  Trần Mạnh Tùng   | Đánh giá chất lượng và ảo giác (Eval & Hallucination QA) cho Chatbot/RAG | Sinh viên AI phát triển RAG | Đọc đối chiếu thủ công 50 câu benchmark với tài liệu gốc mất 120' | Đã có trong bài cá nhân (Card Pitch) |
+| C7 |  Trần Mạnh Tùng   | Đánh giá chất lượng và ảo giác (Eval & Hallucination QA) cho Chatbot/RAG | Sinh viên AI phát triển RAG | Đọc đối chiếu thủ công 50 câu benchmark với tài liệu gốc mất 120' | Đã có trong bài cá nhân |
 | C8 |  Trần Mạnh Tùng   | Lọc và khử trùng lặp dữ liệu ảnh/video (Data De-duplication) trước khi gán nhãn | Sinh viên AI phụ trách Data Pipeline | Mở xem và xóa thủ công các ảnh camera tĩnh trùng lặp mất 180' | Đã có trong bài cá nhân |
 | C9 |  Trần Mạnh Tùng   | Đồng bộ tài liệu API Spec giữa nhóm AI và nhóm Mobile/Frontend | Sinh viên AI backend | Viết tài liệu Notion thủ công và họp debug lỗi lệch schema API | Đã có trong bài cá nhân |
-| C10 |  Đinh Hoàng Đức  | Kênh thông báo và hướng dẫn realtime cho học viên VinAI | Học viên chương trình VinAI | Tìm và đối chiếu thông tin lịch học, deadline từ nhiều kênh phân tán | Đã có trong bài cá nhân (Card Pitch) |
+| C10 |  Đinh Hoàng Đức  | Kênh thông báo và hướng dẫn realtime cho học viên VinAI | Học viên chương trình VinAI | Tìm và đối chiếu thông tin lịch học, deadline từ nhiều kênh phân tán | Đã có trong bài cá nhân |
 | C11 |  Đinh Hoàng Đức  | Sắp xếp lịch họp nhóm | Học viên làm bài tập nhóm | Trưởng nhóm đọc và đối chiếu thời gian rảnh của từng người thủ công | Đã có trong bài cá nhân |
 | C12 |  Đinh Hoàng Đức  | Ghi chép và phân loại chi tiêu cá nhân | Sinh viên tự quản lý tài chính | Đọc và phân loại từng khoản chi tiêu bằng tay | Đã có trong bài cá nhân |
-| C13 |  Phan Đại Cương  | Lập kế hoạch và quản lý công việc học tập từ nhiều nguồn | Sinh viên theo học nhiều môn | Tự tổng hợp task và phân tích ưu tiên từ LMS, Discord, Gmail, Calendar | Đã có trong bài cá nhân (Card Pitch) |
+| C13 |  Phan Đại Cương  | Lập kế hoạch và quản lý công việc học tập từ nhiều nguồn | Sinh viên theo học nhiều môn | Tự tổng hợp task và phân tích ưu tiên từ LMS, Discord, Gmail, Calendar | Đã có trong bài cá nhân |
 | C14 |  Phan Đại Cương  | Tìm lại thông tin học tập và deadline từ nhiều nền tảng | Sinh viên học/làm nhóm | Dò tìm và xác thực thông tin từ nhiều nguồn không có kho trung tâm | Đã có trong bài cá nhân |
 | C15 |  Phan Đại Cương  | Theo dõi tiến độ và ưu tiên công việc học tập của nhóm | Sinh viên trong nhóm dự án | Tổng hợp tiến độ và ra quyết định ưu tiên không được tự động hóa | Đã có trong bài cá nhân |
 
